@@ -1,7 +1,7 @@
 # Hallo jones
 # Tutor yt RANDI OLOYY
 
-# perintah
+  perintah
 - pkg upgrade && pkg update
 - pkg install python2
 - pkg install git
