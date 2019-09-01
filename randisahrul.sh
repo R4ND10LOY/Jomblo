@@ -44,11 +44,11 @@ figlet Mr.NEWBIE3X | lolcat
 
 sleep 1
 
-echo -e $g"▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒    "   
+echo -e $g"_______________________________________________"   
 echo -e $g"    M     U     N      J     U      L      "
-echo -e $g"▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒           " 
+echo -e $g"_______________________________________________" 
 echo -e $bl"."
-echo -e $bu "________________________________________"
+echo -e $bu "++++++++++++++++++++++++++++++++++++"
 echo -e $bu  " Tools       : R4ND1 $white          " 
 echo -e $bu  " GC          : SUNDA CYBER white  " 
 echo -e $bu  " Contact     : 081290587*** $white " 
